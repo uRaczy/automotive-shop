@@ -1,5 +1,7 @@
 import * as React from 'react';
 
+import './account-cart.css';
+
 import Account from './account/account.component';
 import Cart from './cart/cart.component';
 

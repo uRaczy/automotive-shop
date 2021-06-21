@@ -1,6 +1,12 @@
 .cart {
-  width: 55px;
-  height: 55px;
-  padding: 5px;
-  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  margin: 0px 10px;
+  cursor: pointer;
+}
+
+.cart-icon {
+  width: 35px;
+  height: 35px;
+  margin: 0px 5px;
 }

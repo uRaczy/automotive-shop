@@ -1,6 +1,12 @@
 .account {
-  width: 55px;
-  height: 55px;
-  padding: 5px;
-  background-color: blue;
+  display: flex;
+  align-items: center;
+  margin: 0px 10px;
+  cursor: pointer;
+}
+
+.account-icon {
+  width: 35px;
+  height: 35px;
+  margin: 0px 5px;
 }
