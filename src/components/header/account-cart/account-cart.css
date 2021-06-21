@@ -1,0 +1,8 @@
+.accountCart {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 130px;
+  height: 55px;
+  background-color: red;
+}
