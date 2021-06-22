@@ -1,12 +1,12 @@
 .cart {
   display: flex;
   align-items: center;
-  margin: 0px 10px;
+  padding: 0px 10px;
   cursor: pointer;
 }
 
 .cart-icon {
   width: 35px;
   height: 35px;
-  margin: 0px 5px;
+  margin-right: 5px;
 }
